@@ -21,7 +21,9 @@ This is a simple coffee machine simulation built using HTML, CSS, and animations
 
 # Technologies Used
 *HTML:* Structure of the coffee machine interface.
+<br>
 *CSS:* Styling for the interface and buttons.
+<br>
 *CSS Animations:* Visual effects for the coffee preparation process.
 
 # Future Enhancements
