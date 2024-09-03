@@ -11,7 +11,7 @@ This is a simple coffee machine simulation built using HTML, CSS, and animations
 ## How to Use
 
 1. **Clone the repository:**
-   git clone https://github.com/yourusername/coffeemachine.git
+   git clone https://github.com/Suryampathak/coffee.git
 
 2. Open the index.html file in your web browser.
 
